@@ -1,0 +1,2 @@
+# ios-game
+basic xCode 
